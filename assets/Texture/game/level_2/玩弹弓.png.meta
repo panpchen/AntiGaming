@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a7a0bcc7-bd8f-4091-8d7e-91ac245ec4da",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 114,
+  "height": 200,
+  "platformSettings": {},
+  "subMetas": {
+    "玩弹弓": {
+      "ver": "1.0.4",
+      "uuid": "c749cf9a-0c3b-4c99-b749-f5eae2769752",
+      "rawTextureUuid": "a7a0bcc7-bd8f-4091-8d7e-91ac245ec4da",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 114,
+      "height": 200,
+      "rawWidth": 114,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
